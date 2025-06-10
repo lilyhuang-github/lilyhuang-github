@@ -1,5 +1,5 @@
 ## Hello Friend 👋
-I'm a software developer based in Toronto.
+I'm an software developer based in Toronto with experience in developing for open source projects.
 
 ## My stats
 ![image](https://github.com/user-attachments/assets/d28da06b-3c9c-4736-8825-5d48b3c6b8d0)
