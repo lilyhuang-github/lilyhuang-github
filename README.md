@@ -2,6 +2,7 @@
 I'm a software developer based in Toronto.
 
 ## My stats
+![image](https://github.com/user-attachments/assets/d28da06b-3c9c-4736-8825-5d48b3c6b8d0)
 ![image](https://github.com/user-attachments/assets/b41e8ddb-f19a-4686-b7fe-abc8326a7dd7)
 
 <!--
