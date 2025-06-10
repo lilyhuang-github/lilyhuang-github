@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hello Friend 👋
+I'm a software developer based in Toronto.
+
+## My stats
+![image](https://github.com/user-attachments/assets/b41e8ddb-f19a-4686-b7fe-abc8326a7dd7)
 
 <!--
 **lilyhuang-github/lilyhuang-github** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
